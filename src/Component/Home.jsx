@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from "uuid";
 import model from "../assets/images/model.png";
 import model2 from "../assets/images/model2.png";
 import jeansModal from "../assets/images/jeansModal.png";
-import jeansModal2 from "../assets/images/jeansModal2.png";
+import jeansModal2 from "../assets/images/JeansModalBlue.png";
 import jacketmodel from "../assets/images/jacketmodel.png";
 
 import { useSelector, useDispatch } from "react-redux";
