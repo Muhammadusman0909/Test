@@ -10,6 +10,7 @@ import Select from "react-select";
 import { setOptionSelected } from "../features/counter/counterSlice";
 
 const Navbar = ({ setSearchQuery }) => {
+  console.log("ASdasd")
   const cart = useSelector((state) => state.counter.cart);
   const dispatch = useDispatch();
   const [isCartOpen, setisCartOpen] = useState(false);
