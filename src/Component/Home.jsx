@@ -4,7 +4,7 @@ import model from "../assets/images/model.png";
 import model2 from "../assets/images/model2.png";
 import jeansModal from "../assets/images/jeansModal.png";
 import jeansModal2 from "../assets/images/JeansModalBlue.png";
-import jacketmodel from "../assets/images/jacketmodel.png";
+import jacketmodel from "../assets/images/jacketModelBlack.png";
 
 import { useSelector, useDispatch } from "react-redux";
 import { addTocart } from "../features/counter/counterSlice";
