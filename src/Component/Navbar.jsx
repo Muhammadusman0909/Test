@@ -25,7 +25,7 @@ const Navbar = ({ setSearchQuery }) => {
       {/* Left side: Logo and Category Selector */}
       <div className="flex items-center space-x-6">
         {/* Logo */}
-        <div className="text-black">
+        <div className="text-white">
           <img src={logo1} alt="logo1"  className="h-12" />{" "}
           {/* Reduced height for cleaner look */}
         </div>
