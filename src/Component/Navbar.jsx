@@ -45,6 +45,9 @@ const Navbar = ({ setSearchQuery }) => {
           className="w-80 px-4 py-2 rounded-full border border-gray-300 shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
         />
 
+
+        <div className="text-white" > LOGIN </div>
+
         {/* Cart Icon with Badge */}
         <div className="relative">
           {/* Cart SVG */}
