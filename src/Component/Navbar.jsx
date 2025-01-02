@@ -46,7 +46,7 @@ const Navbar = ({ setSearchQuery }) => {
         />
 
 
-        <div className="text-white" > LOGIN </div>
+        <div className="text-white" > LOGIN / SIGNUP </div>
 
         {/* Cart Icon with Badge */}
         <div className="relative">
